@@ -1,0 +1,11 @@
+# Essential packages
+pulp
+
+# Jupyter and Binder-specific packages
+jupyterlab
+notebook
+ipywidgets
+
+# Optional: Specify versions for stability
+pandas>=1.3.0   # For data manipulation if needed
+matplotlib>=3.4.0  # For plotting results
